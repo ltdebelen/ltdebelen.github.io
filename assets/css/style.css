@@ -129,6 +129,9 @@ footer {
 /* MEDIA QUERIES */
 @media (max-width: 640px) {
   /* About Me */
+  #about-me {
+    margin-bottom: 100px;
+  }
 
   #about-me h2 {
     font-size: 1.6rem;
